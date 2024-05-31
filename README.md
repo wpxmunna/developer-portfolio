@@ -3,7 +3,7 @@
 </p>
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+<!-- # [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio) -->
 
 ---
 
@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+<!-- ## View live preview [here](https://abusaid.netlify.app/). -->
 
 ---
 
@@ -109,26 +109,26 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/wpxmunna/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "MD IBRAHIM KHALILULLAH MUNNA",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
+  description: "My name is MD IBRAHIM KHALILULLAH MUNNA....",
+  email: "wpxmunna@gmail.com",
+  phone: "+8801779747913",
   address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  github: "https://github.com/wpxmunna",
+  facebook: "https://www.facebook.com/ibrahimunnacom/",
+  linkedIn: "https://www.linkedin.com/in/wpxmunna1997/",
+  twitter: "https://x.com/wpxmunna1997",
+  stackOverflow: "https://stackoverflow.com/users/11301653/wpx-munna",
+  leetcode: "https://leetcode.com/wpxmunna/",
+  devUsername: "md_ibrahimkhalilullahm",
   resume: "...",
 };
 ```
