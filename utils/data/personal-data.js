@@ -13,6 +13,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/11301653/wpx-munna',
   leetcode: "https://leetcode.com/wpxmunna/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/drive/u/0/folders/1jUvvYfVwX14u7nTHHsGIvCqNvTpm8Jbt",
+  resume: "https://drive.google.com/file/d/1GPnrOOGkGi4hUyvGZLCEQFm0Q-xe0GH2/view",
   logoName: "I.K MUNNA"
 }
